@@ -1,6 +1,6 @@
 #parrot.rb
 
- def parrot(phrase)
+ def parrot(phrase = Squawk)
   puts"Squawk!"
   "Squawk!"
    end
